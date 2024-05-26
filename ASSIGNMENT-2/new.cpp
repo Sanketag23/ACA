@@ -1,3 +1,4 @@
+// please ignore this
 #include<stdio.h>
 #include<iostream>
 #include<fstream>
@@ -7,5 +8,4 @@
 #include<ctime>
 using namespace std;
 int main{
-    cout<<"Hello World";
 }
